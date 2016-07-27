@@ -10,3 +10,11 @@
  Tags: custom-background, custom-colors, custom-menu, featured-images, full-width-template, microformats, right-sidebar, rtl-language-support, sticky-post, translation-ready, two-columns
  Text Domain:  sela-child
 */
+
+#terms a{
+	color: #fff;
+}
+
+#terms a:hover {
+    color: #f25f70;
+}
